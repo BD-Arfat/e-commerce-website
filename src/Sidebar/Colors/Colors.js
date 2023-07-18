@@ -4,7 +4,7 @@ import './Colors.css'
 const Colors = () => {
     return (
         <div>
-            
+            ffsfsf
         </div>
     );
 };
