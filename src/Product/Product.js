@@ -1,11 +1,13 @@
 import React from 'react';
 import './product.css'
+import Card from '../Components/Card';
 
 const Product = () => {
     return (
-        <div>
-            
-        </div>
+        <section className='card-container'>
+            <Card/>
+            <Card/>
+        </section>
     );
 };
 
