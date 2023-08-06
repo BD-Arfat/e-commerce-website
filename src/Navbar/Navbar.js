@@ -5,6 +5,7 @@ import './Navbar.css'
 
 const Navbar = () => {
     return (
+        // start navbar
         <nav>
         <div className="nav-container">
           <input
@@ -27,6 +28,7 @@ const Navbar = () => {
           </a>
         </div>
       </nav>
+    // end nevbar
     );
 };
 
